@@ -51,13 +51,6 @@ header {
     font-size: 200px;
     padding-top: 50px;
 }
-#titulo:hover {
-    transform: rotate(5deg);
-    transition: 1s;
-}
-#titulo:not(:hover){
-    transition: 1s;
-}
 #subtitulo {
     color: #eac45d;
     font-family: 'Yusei Magic', sans-serif;
